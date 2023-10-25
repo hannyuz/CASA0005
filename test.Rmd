@@ -1,2 +1,7 @@
 
-"hello world"
+# some test 
+```{r}
+basic <- "stupid"
+basic
+```
+
